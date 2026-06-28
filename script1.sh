@@ -1,1 +1,1 @@
-#!/bin/bash\necho "Hello World"
+"Work in progress on script1"
